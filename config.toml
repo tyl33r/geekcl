@@ -23,7 +23,7 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   theme_variant = "" # Optional, for use to overriding default theme
 
 [permalinks]
-  post = "/:title/"
+  post = "/:slug/"
   pagina = "/pagina/:title/"
 
 [taxonomies]
