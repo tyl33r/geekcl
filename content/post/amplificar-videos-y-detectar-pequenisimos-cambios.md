@@ -1,0 +1,21 @@
++++
+author = "Arturo"
+date = 2012-06-07T11:10:36Z
+description = ""
+draft = false
+slug = "amplificar-videos-y-detectar-pequenisimos-cambios"
+title = "Amplificar videos y detectar pequeñísimos cambios"
+
++++
+
+<img class=" wp-image-990 " title="cambios-color" src="http://geek.cl/wp-content/uploads/2012/06/cambios-color.jpg" alt="Cambios en el color de la piel cuando la sangre es bombeada." width="640" height="262" />
+
+En el título de este post probablemente no queda claro los alcances de este nuevo tipo de tecnología. Donde según algoritmos aplicados al procesamiento de imágenes de videos, utilizando un nuevo método bautizado como <a href="http://people.csail.mit.edu/mrub/vidmag/">Eulerian Video Magnification</a> (Amplificación Aureliana de video) se pueden llegar a amplificar pequeños cambios que a simple vista son imperceptibles.
+
+Desde las fluctuaciones en el diafragma que hay cuando un bebé está respirando, el movimiento que tiene la piel de tu muñeca cuando se genera una pulsación sanguínea, o los cambios que hay en tu rostro cuando es bombeada la sangre desde el corazón, esto y más puede ser detectado por esta nueva tecnica.
+
+<iframe src="http://www.youtube.com/embed/ONZcjs1Pjmk?rel=0" frameborder="0" width="640" height="360"></iframe>
+
+En el video queda aún más claro las implicancias de esta tecnología, los detalles técnicos los puedes ver <a href="http://people.csail.mit.edu/mrub/papers/vidmag.pdf">en este pdf</a>.
+
+Un nuevo método aplicado a la vida real, que puede tener un montón de beneficios y usos, desde médicos, monitoreo a distancia, area de la seguridad, etc..
