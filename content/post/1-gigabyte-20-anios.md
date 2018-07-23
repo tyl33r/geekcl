@@ -7,8 +7,8 @@ slug = "1-gigabyte-20-anios"
 title = "1 Gigabyte de hace 20 años"
 
 +++
-![20 Gigas de hace 20 años][https://geek.cl/content/136-gigabyte-20-anios.jpg]
-<cite>Dispositivo de almacenamiento de 1 Gigabyte de hace 20 años comparado con uno actual.</cite> 
+![20 Gigas de hace 20 años][https://geek.cl/content/import/136-gigabyte-20-anios.jpg]
+<cite>Dispositivo de almacenamiento de 1 Gigabyte de hace 20 años comparado con uno actual.</cite>
 
 
 
