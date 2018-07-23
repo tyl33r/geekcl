@@ -29,4 +29,4 @@ La migración desde Wordpress para llegar a Ghost fue relativamente fácil, aunq
 
 Ahora me queda la ardua tarea de poner a punto algunas cosillas (imágenes, sitemap, comentarios), para dar por finalizado el cambio. El siguiente paso es empezar a escribir y mantener actualizado este blog.
 
-Cualquier consulta sobre el tema la pueden hacer una vez que lo habilite ;) en los comentarios, o en mi twitter personal [@arturo_c](http://twitter.com/arturo_c), siempre que puedo me encanta ayudar en este tipo de asuntos, un saludo.
+Cualquier consulta sobre el tema la pueden hacer una vez que lo habilite ;) en los comentarios, o en mi twitter personal [@arturo_c](https://twitter.com/arturo_c), siempre que puedo me encanta ayudar en este tipo de asuntos, un saludo.

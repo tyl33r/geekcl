@@ -10,7 +10,7 @@ title = "5 avances tecnológicos interesantes del 2008"
 
 +++
 
-Elegir dentro del gran espectro de aportes e innovaciones tecnológicas que se dan durante el año, no es una tarea fácil. Pero si aplicamos un filtro, digamos algo como un punto de "vista geek", ahí la tarea se facilita bastante. Y más aún, si nos basamos en la prestigiosa Wired, y su selección de <a href="http://www.wired.com/gadgets/miscellaneous/news/2008/12/YE8_techbreaks">los 10 mejores avances tecnológicos del 2008</a>, una selección para mi gusto bastante acertada, y que abarca un gran espectro, tanto el área salud, pasando por los deportes, y la tecnología aplicada a los aparatos electrónicos de consumo.
+Elegir dentro del gran espectro de aportes e innovaciones tecnológicas que se dan durante el año, no es una tarea fácil. Pero si aplicamos un filtro, digamos algo como un punto de "vista geek", ahí la tarea se facilita bastante. Y más aún, si nos basamos en la prestigiosa Wired, y su selección de <a href="https://www.wired.com/gadgets/miscellaneous/news/2008/12/YE8_techbreaks">los 10 mejores avances tecnológicos del 2008</a>, una selección para mi gusto bastante acertada, y que abarca un gran espectro, tanto el área salud, pasando por los deportes, y la tecnología aplicada a los aparatos electrónicos de consumo.
 
 Esta selección se basa en mi apreciación personal, y rescata lo que bajo mi punto de vista es lo más interesante. <a href="http://geeksan.com/tecnologia/5-avances-tecnologicos-interesantes-2008-2.html">Visitar segunda parte y final</a>.
 
@@ -43,4 +43,4 @@ En febrero del 2008, 37 años después de su nacimiento, científicos de la HP L
 
 Su invención significa una gran avance en almacenamiento de información no volátil y de rápido acceso, ya que su particular capacidad de ser una <b>resistencia variable</b>, hacen que este sea capaz de almacenar información sin necesidad de ser alimentado por energía eléctrica, todo lo contrario de las actuales memorias ram. También son capaces de guardar datos a altas densidades, por ejemplo 100 gigabits en un centímetro cuadrado y con velocidades de acceso muy altas.
 
-Espero que esta selección "muy personal" les haya gustado. Y los dejo invitados a leer la <a href="http://geekcl/5-avances-tecnologicos-interesantes-2008-2">segunda parte y final</a> con los otros dos avances tecnológicos.
+Espero que esta selección "muy personal" les haya gustado. Y los dejo invitados a leer la <a href="https://geek.cl/5-avances-tecnologicos-interesantes-2008-2">segunda parte y final</a> con los otros dos avances tecnológicos.
