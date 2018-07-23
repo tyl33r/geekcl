@@ -7,7 +7,8 @@ slug = "1-gigabyte-20-anios"
 title = "1 Gigabyte de hace 20 años"
 
 +++
-![20 Gigas de hace 20 años](https://geek.cl/content/images/import/136-gigabyte-20-anios.jpg "20 Gigas de hace 20 años")<cite>Dispositivo de almacenamiento de 1 Gigabyte de hace 20 años comparado con uno actual.</cite>
+![20 Gigas de hace 20 años](/images/import/136-gigabyte-20-anios.jpg "20 Gigas de hace 20 años")
+<cite>Dispositivo de almacenamiento de 1 Gigabyte de hace 20 años comparado con uno actual.</cite>
 
 <p>Hoy en día ya estamos hablando de Terabytes en lo que respecta a la capacidad de los dispositivos de almacenamiento, el Gigabyte lentamente le está abriendo paso a la unidad de medida informática mayor.</p>
 
