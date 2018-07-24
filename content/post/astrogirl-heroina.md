@@ -12,6 +12,4 @@ title = "Astro Girl eres nuestra heroína"
 
 <p>Graben su nombre en sus corazones, <strong>Astro Girl</strong> la nueva heroína que llegó para quedarse.</p>
 
-<iframe width="640" height="480" src="http://geek.cl/wp-content/uploads/2009/01/XYRav-E-3eU" frameborder="0" allowfullscreen></iframe>
-
-<p>[Vía - <a href="http://geek.cl/wp-content/uploads/2009/01/the-amazing-astrogirl">Geeks are Sexy</a>.]</p>
+<p>[Vía - Geeks are Sexy.]</p>
