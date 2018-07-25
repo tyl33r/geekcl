@@ -5,7 +5,7 @@ date = 2012-05-19T13:13:22Z
 description = ""
 draft = false
 slug = "benga-i-will-never-change-formas-de-ondas-con-vinilo"
-tags = ["Benga", "vinílos", "dubstep", "DJ", "música" "techno"]
+tags = ["Benga", "vinílos", "dubstep", "DJ", "música", "techno"]
 title = "Benga @ I Will Never Change - Formas de ondas con vinilo"
 
 +++
