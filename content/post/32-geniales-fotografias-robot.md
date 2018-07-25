@@ -8,10 +8,10 @@ title = "32 geniales fotografías de Robot"
 
 +++
 
- <p align="center"><img src="https://geek.cl/images/import/145-robot-toyota.jpg" alt="145-robot-toyota.jpg" /></a></p>
+![Robot Toyota](/images/import/145-robot-toyota.jpg")
 
-<p>32 geniales fotografías de robot; que el boston.com nos presenta a través de su muy acertada y característica forma de recopilar imágenes, The Big Picture.</p>
+32 geniales fotografías de robot; que el boston.com nos presenta a través de su muy acertada y característica forma de recopilar imágenes, The Big Picture.
 
-<p><em>Tip: navega en las fotografías presionando "j" para avanzar y "k" para retroceder.</em></p>
+*Tip: navega en las fotografías presionando "j" para avanzar y "k" para retroceder.*
 
-<p>[Vía - <a href="https://digg.com/general_sciences/Robots_pics">Digg</a>.].</p>
+[Vía - [Digg](https://digg.com/general_sciences/Robots_pics)].

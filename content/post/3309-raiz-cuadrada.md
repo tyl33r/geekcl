@@ -8,9 +8,9 @@ title = "3/3/09: Día de la Raíz Cuadrada"
 
 +++
 
-<p align="center"><img src="https://geek.cl/images/import/142-logotipo-dia-raiz-cuadrada.jpg" alt="142-logotipo-dia-raiz-cuadrada.jpg" /></p>
+[Día de la Raiz Cuadrada Logo](/images/import/142-logotipo-dia-raiz-cuadrada.jpg)
 
-Hoy Martes 3/3/09 los entusiastas de las matemáticas y en general los geek que les guste festejar, celebramos el <strong>día de la raíz cuadrada</strong>, festividad que corresponde darle la importancia que se merece, teniendo en cuenta que ocurre sólo 9 veces en el siglo que el día y el mes sean raíz cuadrada del año.
+Hoy Martes **3/3/2009** los entusiastas de las matemáticas y en general los geek que les guste festejar, celebramos el **día de la raíz cuadrada**, festividad que corresponde darle la importancia que se merece, teniendo en cuenta que ocurre sólo 9 veces en el siglo que el día y el mes sean raíz cuadrada del año.
 
 La última celebración del día de la raíz cuadra fue hace 5 años, el 2 de Febrero de 2004, el próximo será en 7 años más, el 4 de abril de 2016.
 

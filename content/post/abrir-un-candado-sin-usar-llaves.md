@@ -8,4 +8,4 @@ title = "Abrir un candado sin usar llaves"
 
 +++
 
-O como aprender de todo lo que nos interese, en este caso los pasos para <a href="http://www.tested.com/art/makers/457488-how-pick-lock/">abrir un candado</a> al estilo ladrón de película.
+O como aprender de todo lo que nos interese, en este caso los pasos para [abrir un candado](https://www.tested.com/art/makers/457488-how-pick-lock/) al estilo ladrón de película.

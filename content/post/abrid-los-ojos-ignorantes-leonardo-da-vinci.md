@@ -10,7 +10,6 @@ title = "Abrid los ojos ignorantes! Leonardo da Vinci"
 
 +++
 
-
 >La cegadora ignorancia nos confunde. ¡Oh miserables mortales, abrid los ojos!
 
 [Leonardo da Vinci](https://es.wikipedia.org/wiki/Leonardo_da_Vinci).

@@ -8,8 +8,8 @@ title = "El algoritmo secreto de Digg"
 
 +++
 
-<p>El algoritmo secreto que se utiliza en Digg para seleccionar y poner en portada las noticias más importantes o populares de internet es revelado en este video.</p>
+El algoritmo secreto que se utiliza en Digg para seleccionar y poner en portada las noticias más importantes o populares de internet es revelado en este video.
 
-Nota: El video que acompañaba este post fue eliminado por el dueño, no hay otra parecido :(
+Nota: El video que acompañaba este post fue eliminado por el dueño, no hay otro parecido :(
 
-<p>[Vía - <a href="https://digg.com/tech_news/The_Secret_Digg_Algorithm">Digg</a>.].</p>
+[Vía - [Digg](https://digg.com/tech_news/The_Secret_Digg_Algorithm)].

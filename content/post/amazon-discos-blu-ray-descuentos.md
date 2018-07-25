@@ -8,10 +8,10 @@ title = "Amazon: Discos Blu-ray con descuentos"
 
 +++
 
-<p align="center"><img src="https://geek.cl/images/import/149-discos-blu-ray.jpg" alt="149-discos-blu-ray.jpg" /></p>
+![Blu Ray](images/import/149-discos-blu-ray.jpg)
 
 <em>Aviso: Artículo patrocinado.</em><br />
 
-<p>Una buena oportunidad para aprovechar de ampliar tu colección de películas Blu-ray, a través de Amazon una de las mejores tiendas on-line que existe.</p>
+Una buena oportunidad para aprovechar de ampliar tu colección de películas Blu-ray, a través de Amazon una de las mejores tiendas on-line que existe.
 
-<p>Esta <strong>promoción por tiempo limitado</strong>, incluye más de 300 títulos de películas en formato Blu-ray a USD $13,99</a>, se incluyen título cómo Wall-E, Transformers, Iron Man, etcétera. Aprovecha de comprar algún titulo antes que se agoten o llegue el 22 de marzo, que es cuando finaliza esta promoción.</p>
+Esta **promoción por tiempo limitado**, incluye más de 300 títulos de películas en formato Blu-ray a USD $13,99, se incluyen título cómo Wall-E, Transformers, Iron Man, etcétera. Aprovecha de comprar algún titulo antes que se agoten o llegue el 22 de marzo, que es cuando finaliza esta promoción.

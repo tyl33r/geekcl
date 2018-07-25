@@ -8,8 +8,8 @@ title = "Astro Girl eres nuestra heroína"
 
 +++
 
-<p>Las actuaciones son malas, los efectos especiales tampoco son los mejores, las coreografías de las peleas son horribles. Pero AstroGirl con su sola presencia logra crear una serie de acción digna de un oscar.</p>
+Las actuaciones son malas, los efectos especiales tampoco son los mejores, las coreografías de las peleas son horribles. Pero AstroGirl con su sola presencia logra crear una serie de acción digna de un oscar.
 
-<p>Graben su nombre en sus corazones, <strong>Astro Girl</strong> la nueva heroína que llegó para quedarse.</p>
+Graben su nombre en sus corazones, **Astro Girl** la nueva heroína que llegó para quedarse.
 
-<p>[Vía - Geeks are Sexy.]</p>
+[Vía - Geeks are Sexy.]

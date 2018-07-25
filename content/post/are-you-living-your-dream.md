@@ -10,4 +10,4 @@ title = "¿Estás viviendo tu sueño?"
 
 ¿Si o no?, tod@s deberíamos vivir nuestros sueños.
 
-Sobrecogedora fotografía vista en <a href="https://on-display.tumblr.com/">On Display</a>.
+Sobrecogedora fotografía vista en On Display.

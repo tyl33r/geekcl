@@ -5,10 +5,9 @@ description = ""
 draft = false
 slug = "bobinas-tesla-video-juego"
 title = "Las bobinas de Tesla \"Cantan\" el tema de tu video juego favorito"
-
 +++
 
-Este es casi un sueño erótico geek. [Nikola Tesla](https://es.wikipedia.org/wiki/Nikola_Tesla "Nikola Tesla") y sus [Bobinas](https://es.wikipedia.org/wiki/Bobina_de_Tesla "Bobinas de Tesla) *cantando* la canción de tu video juego favorito. ¿Quién no ha soñado alguna vez con esto?... Bueno a decir verdad, yo no, pero igualmente me parece hermosa y original la idea, pues por eso la publico.
+Este es casi un sueño erótico geek. [Nikola Tesla](https://es.wikipedia.org/wiki/Nikola_Tesla "Nikola Tesla") y sus [Bobinas](https://es.wikipedia.org/wiki/Bobina_de_Tesla "Bobinas de Tesla") *cantando* la canción de tu video juego favorito. ¿Quién no ha soñado alguna vez con esto?... Bueno a decir verdad, yo no, pero igualmente me parece hermosa y original la idea, pues por eso la publico.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VX5V_9s0Gfw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -<br \><cite>Tema característico de Súper Mario Bros.</cite>
 
