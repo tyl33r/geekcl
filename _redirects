@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://stoic-einstein-aa5516.netlify.com/* https://geek.cl/:splat 301!

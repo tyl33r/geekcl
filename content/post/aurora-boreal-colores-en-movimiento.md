@@ -7,8 +7,7 @@ slug = "aurora-boreal-colores-en-movimiento"
 title = "Aurora Boreal: Colores en movimiento"
 
 +++
-
-<img class="size-full wp-image-655" title="aurora" src="https://geek.cl/images/2012/04/aurora.jpg" alt="" width="640" height="427" />
+![Aurora Boreal](/images/2012/04/aurora.jpg)
 
 Colores en movimiento en el cielo oscuro, una aurora boreal en el ártico. El lago se congela, las nubes pasan, el sol poco abriga. El espacio se hace presente y nos canta con luces.
 

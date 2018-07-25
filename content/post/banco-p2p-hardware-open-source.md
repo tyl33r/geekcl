@@ -8,7 +8,7 @@ title = "Banco P2P para hardware open source"
 
 +++
 
- <p align="center"><img src="https://geek.cl/images/import/162-hardware-open-source.jpg" alt="162-hardware-open-source.jpg" /></p>
+! [HW Open_Source](/images/import/162-hardware-open-source.jpg "162-hardware-open-source.jpg")
 
 <p>Tanto el software de código abierto cómo el <b>hardware de código abierto</b> necesitan financiamiento, más aún el hardware open source debido a que para obtener un producto final se debe haber invertido en una placa de circuitos impresos, accesorios para soldadura, etcétera, etcétera. Atacando este problema monetario y teniendo en cuenta el fuerte crecimiento del hardware de código abierto, a surgido un <a href="https://www.oshwbank.org/">banco</a> virtual que se encargará de realizar prestamos a los proyectos más interesantes.</p>
 
