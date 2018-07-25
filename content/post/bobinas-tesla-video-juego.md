@@ -8,15 +8,13 @@ title = "Las bobinas de Tesla \"Cantan\" el tema de tu video juego favorito"
 
 +++
 
-<p>Este casi es un sueño erótico geek. Las bobinas de <a href="http://geek.cl/wp-content/uploads/2009/01/Nikola_Tesla">Nikola Tesla</a> "cantando" la canción de tu video juego favorito. ¿Quién no ha soñado alguna vez con esto?... Bueno a decir verdad, yo no, pero igualmente me parece hermosa y original la idea, pues por eso la publico.</p>
+Este es casi un sueño erótico geek. [Nikola Tesla](https://es.wikipedia.org/wiki/Nikola_Tesla "Nikola Tesla") y sus [Bobinas](https://es.wikipedia.org/wiki/Bobina_de_Tesla "Bobinas de Tesla) *cantando* la canción de tu video juego favorito. ¿Quién no ha soñado alguna vez con esto?... Bueno a decir verdad, yo no, pero igualmente me parece hermosa y original la idea, pues por eso la publico.
 
-<iframe width="640" height="480" src="http://geek.cl/wp-content/uploads/2009/01/VX5V_9s0Gfw" frameborder="0" allowfullscreen></iframe><cite><a href="http://geek.cl/wp-content/uploads/2009/01/watch?v=VX5V_9s0Gfw">Super Mario Brothers</a> - Tema característico de Súper Mario Bros.</cite>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VX5V_9s0Gfw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -<br \><cite>Tema característico de Súper Mario Bros.</cite>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LudXCEZvn50" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -<br\><cite>Zelda</cite>
 
 
-<iframe width="640" height="480" src="http://geek.cl/wp-content/uploads/2009/01/pF5Y4EmvUQM" frameborder="0" allowfullscreen></iframe><cite>Tetris Theme</a> - El Clásico Tetris</cite>
+Si deseas saber más sobre este gran inventor visita esta [Mini Biografía de Nikola Tesla](https://www.microsiervos.com/archivo/ciencia/150-aniversario-nikola-tesla.html "Mini Biografía de Nikola Tesla"), que se han preparado los Microsiervos, para el 150 aniversario de su nacimiento.</p>
 
-<iframe width="640" height="480" src="http://geek.cl/wp-content/uploads/2009/01/LudXCEZvn50" frameborder="0" allowfullscreen></iframe><cite><a href="http://geek.cl/wp-content/uploads/2009/01/watch?v=LudXCEZvn50">Zelda played on Twin Musical Tesla coils</a> - Zelda</cite>
-
-<p>Si deseas saber más sobre este gran inventor visita esta <a href="http://geek.cl/wp-content/uploads/2009/01/150-aniversario-nikola-tesla.html">Mini Biografía de Nikola Tesla</a>, que se han preparado los Microsiervos, para el 150 aniversario de su nacimiento.</p>
-
-<p>[Vía - <a href="http://geek.cl/wp-content/uploads/2009/01/tesla-coils-sing-your-favorite-video-game-themes">Neotarama</a>.].</p>
+[Vía - Neatorama]
