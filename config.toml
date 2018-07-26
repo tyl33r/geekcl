@@ -11,6 +11,12 @@ disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
 [params]
   description = "Blog geek" # Suggested, controls default description meta
   author = "Arturo C." # Optional, controls author name display on posts
