@@ -3,14 +3,15 @@ author = "Arturo"
 date = 2009-03-05T03:39:39Z
 description = ""
 draft = false
+tags = ["daft punk", "música", "tron", "películas"]
 slug = "daft-punk-banda-sonora-tr2n"
 title = "Daft Punk hará la banda sonora de Tron Legacy"
 
 +++
 
-<p align="center"><img src="http://geeksan.com/wp-content/uploads/import/144-tr2n.jpg" alt="144-tr2n.jpg" /></p>
+![Daft Punk será parte de Tron Legacy](/images/import/144-tr2n.jpg)
 
-<p><a href="http://upcomingfilmscores.blogspot.com/2009/03/daft-punk-tron-20.html">Al parecer está casi confirmado</a> que <a href="http://geek.cl/wp-content/uploads/2009/03/Daft_Punk">Daft Punk</a> hará la banda sonora de la segunda parte de <a href="http://geek.cl/wp-content/uploads/2009/03/Tron">Tron</a> (T<del datetime="2012-04-20T02:47:13+00:00">R2N</del>Tron Legacy). Secuela que Disney pretende <a href="http://geek.cl/wp-content/uploads/2009/03/news#ni0698268">estrenar para el 2011</a>.</p>
+[Al parecer está casi confirmado](https://upcomingfilmscores.blogspot.com/2009/03/daft-punk-tron-20.html) que [Daft Punk](https://es.wikipedia.org/wiki/Daft_Punk) hará la banda sonora de la segunda parte de [Tron](https://es.wikipedia.org/wiki/Tron) [TR2N (Tron Legacy)] (https://es.wikipedia.org/wiki/Tron:_Legacy). Secuela que Disney pretende estrenar para el 2011.
 
 <p><a href="http://geek.cl/wp-content/uploads/2009/03/tt1104001">Tron 2.0 o TR2N</a> cómo se llama esta nueva versión, en el papel se vé bastante interesante, ya que sumado al trabajo de <b>Duft Punk</b>, también tiene cómo director a Joseph Kosinski quien es el responsable de algunos spot's publicitarios basados en <a href="http://geek.cl/wp-content/uploads/2009/03/Computer_Generated_Imagery">CGI</a> (como <a href="http://www.josephkosinski.com/projects/movs/les_jumelles.html">este para Nike</a>); la película fue escrita por Eddie Kitsis y Adam Horowitz de Lost, además dentro del elenco de actores está <a href="http://geek.cl/wp-content/uploads/2009/03/nm1312575">Olivia Wilde</a> de "House" y "OC" y <a href="http://geek.cl/wp-content/uploads/2009/03/Jeff_Bridges">Jeff Bridges</a> quien se repite el plato en este remake de Tron.</p>
 
