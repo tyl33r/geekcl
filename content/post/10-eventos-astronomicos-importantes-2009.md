@@ -3,12 +3,13 @@ author = "Arturo"
 date = 2009-01-17T08:28:07Z
 description = ""
 draft = false
+tags = ["astronomía", "eclipse", "eventos"]
 slug = "10-eventos-astronomicos-importantes-2009"
 title = "Los 10 eventos astronómicos más importantes del 2009"
 
 +++
 
- [Eclipse anular](/images/import/86-eclipse-total-sol.jpg)<br />
+ ![Eclipse anular](/images/import/86-eclipse-total-sol.jpg)<br />
  <cite>Eclipse anular total de Sol - NASA.</cite></p>
 
 Este año es el Año Internacional de la Astronomía; se cumple el 400 aniversario desde que Galileo Galilei apuntó al cielo con un telescopio.
@@ -28,6 +29,6 @@ Para darles un adelanto, les escribo los primeros 4 eventos, que podrán ser vis
 
 El resto de los eventos se encuentran en el artículo original del Discovery Channel, y en el *calendario que me he tomado la libertad de crear mediante Google Calendar.*
 
-Por favor, utiliza la siguiente dirección para acceder al calendario desde otras aplicaciones. Puedes copiarla y pegarla en cualquier lector de feed.
+~~Por favor, utiliza la siguiente dirección para acceder al calendario desde otras aplicaciones. Puedes copiarla y pegarla en cualquier lector de feed.~~
 
-Nota: *están todos invitados a editarlo, agregando mayor información y detalles a los eventos del calendario. Por favor cualquier cambio anuncialo en los comentarios.*
+~~Nota: *están todos invitados a editarlo, agregando mayor información y detalles a los eventos del calendario. Por favor cualquier cambio anuncialo en los comentarios.*~~

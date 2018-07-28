@@ -10,7 +10,7 @@ title = "Amazon: Discos Blu-ray con descuentos"
 
 ![Blu Ray](images/import/149-discos-blu-ray.jpg)
 
-<em>Aviso: Artículo patrocinado.</em><br />
+*Aviso: Artículo patrocinado.*
 
 Una buena oportunidad para aprovechar de ampliar tu colección de películas Blu-ray, a través de Amazon una de las mejores tiendas on-line que existe.
 

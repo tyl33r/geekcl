@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2009-01-09T08:46:34Z
 description = ""
 draft = false
-tags = ["Barack Obama", "Hombre Araña", "comics"]
+tags = ["obama", "hombre araña", "comics"]
 slug = "barack-obama-hombre-arana"
 title = "Barack Obama y El Hombre Araña"
 +++

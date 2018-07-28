@@ -3,6 +3,7 @@ author = "Arturo"
 date = 2009-03-03T04:04:51Z
 description = ""
 draft = false
+tags = ["matemática", "pi", "raíz cuadrada"]
 slug = "3309-raiz-cuadrada"
 title = "3/3/09: Día de la Raíz Cuadrada"
 

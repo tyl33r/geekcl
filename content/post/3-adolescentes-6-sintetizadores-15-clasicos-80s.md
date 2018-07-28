@@ -2,6 +2,7 @@
 author = "Arturo"
 date = 2009-03-15T09:23:54Z
 description = ""
+tags = ["sintetizadores", "música", "video"]
 draft = false
 slug = "3-adolescentes-6-sintetizadores-15-clasicos-80s"
 title = "3 adolescentes, 6 sintetizadores y 15 clásicos de los 80's"

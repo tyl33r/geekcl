@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2012-06-13T11:37:22Z
 description = ""
 draft = false
-tags = ["Wordpress", "plugins", "backup", "Amazon", "S3"]
+tags = ["wordpress", "plugins", "backup", "amazon", "s3"]
 slug = "automatic-wordpress-backup-en-s3-de-amazon"
 title = "Automatic Wordpress Backup en S3 de Amazon"
 

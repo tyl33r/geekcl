@@ -3,12 +3,13 @@ author = "Arturo"
 date = 2008-12-30T00:30:03Z
 description = ""
 draft = false
+tags = ["video", "fotografía","time lapse"]
 slug = "ano-cuarenta-segundos"
 title = "Un año en cuarenta segundos"
 
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmIFXIXQQ_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
-One Year in 40 Second [40 seg.].
+<cite>One Year in 40 Second [40 seg.]</cite>.
 
 El tiempo pasa a veces muy lentamente, tan lento que no somos capaces de darnos cuenta de los cambios que ocurren.
 

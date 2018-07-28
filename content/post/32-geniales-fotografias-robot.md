@@ -3,6 +3,7 @@ author = "Arturo"
 date = 2009-03-05T17:53:37Z
 description = ""
 draft = false
+tags = ["robot", "fotografía"]
 slug = "32-geniales-fotografias-robot"
 title = "32 geniales fotografías de Robot"
 

@@ -1,6 +1,5 @@
 +++
 author = "Arturo"
-categories = ["ghost", "geek", "wordpress", "migración", "blog"]
 date = 2014-12-08T03:45:16Z
 description = ""
 draft = false

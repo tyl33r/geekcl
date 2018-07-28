@@ -3,6 +3,7 @@ author = "Arturo"
 date = 2012-06-07T11:10:36Z
 description = ""
 draft = false
+tags = []
 slug = "amplificar-videos-y-detectar-pequenisimos-cambios"
 title = "Amplificar videos y detectar pequeñísimos cambios"
 
@@ -15,4 +16,4 @@ Desde las fluctuaciones en el diafragma que hay cuando un bebé está respirando
 
 En el video queda aún más claro las implicancias de esta tecnología, los detalles técnicos los puedes ver [en este pdf](https://people.csail.mit.edu/mrub/papers/vidmag.pdf).
 
-Un nuevo método aplicado a la vida real, que puede tener un montón de beneficios y usos, desde médicos, monitoreo a distancia, area de la seguridad, etc..
+Un nuevo método aplicado a la vida real, que puede tener un montón de beneficios y usos, desde médicos,monitoreo a distancia, area de la seguridad, etc..

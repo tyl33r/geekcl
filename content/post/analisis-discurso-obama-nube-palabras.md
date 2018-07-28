@@ -3,6 +3,7 @@ author = "Arturo"
 date = 2009-01-21T16:10:01Z
 description = ""
 draft = false
+tags = ["obama", "nube de palabras", "discurso", "bush", "análisis"]
 slug = "analisis-discurso-obama-nube-palabras"
 title = "Análisis del discurso de Obama utilizando nube de palabras"
 

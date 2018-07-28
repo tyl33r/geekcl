@@ -1,11 +1,10 @@
 +++
 author = "Arturo"
-categories = ["tecnología", "avances"]
 date = 2008-12-28T07:00:00Z
 description = ""
 draft = false
 slug = "5-avances-tecnologicos-interesantes-2008"
-tags = ["tecnología", "avances"]
+tags = ["tecnología", "opinión"]
 title = "5 avances tecnológicos interesantes del 2008"
 
 +++
@@ -15,26 +14,24 @@ Esta selección se basa en mi apreciación personal, y rescata lo que bajo mi pu
 
 ### 5. Pantallas Flexibles.
 
-![Pantalla Flexible](/content/images/2016/07/32-pantalla-flexible-1.jpg)
-Fotografía de una pantalla flexible tomada por Phillip Spears y obtenida desde Wired.
+![Pantalla Flexible](/content/images/2016/07/32-pantalla-flexible-1.jpg)<br>
+<cite>Fotografía de una pantalla flexible tomada por Phillip Spears y obtenida desde Wired.</cite>
 
 Estas pantallas ultra delgadas y maleables, están fabricadas básicamente con un plástico especial bajo un método llamado SAIL (self-aligned imprint lithography), que facilita su instalación y evita la distorsión de la imagen. Cómo muy bien se señala en Wired, cambiarán la forma en como nosotros accedemos al universo de la información. Sólo basta imaginarse estos verdaderos papeles, desplegando imágenes en alta calidad, en prácticamente cualquier lugar, debido a su facilidad de instalación y su teórico menor costo de fabricación, además de su muy conveniente bajo consumo de energía. Además de su uso en los aparatos electrónicos de consumo, tales como teléfonos móviles, computadores portátiles, e-diarios, etc.
 
 ### 4. USB 3.0.
 
-![USB 3.0](/content/images/2016/07/33-usb_3.jpg)
+![USB 3.0](/content/images/2016/07/33-usb_3.jpg)<br>
+<cite>Una de las primeras imagenes obtenidas gracias a Engadget.</cite>
 
-Una de las primeras imagenes obtenidas gracias a Engadget.
+El Universal Serial Bus (bus universal en serie) USB, es el puerto estándar en casi todos los gadgets que actualmente se fabrican. Su diseño tenía como objetivo eliminar la necesidad de adquirir tarjetas separadas para poner en los puertos [bus ISA](https://es.wikipedia.org/wiki/Industry_Standard_Architecture) o [PCI](https://es.wikipedia.org/wiki/Peripheral_Component_Interconnect), y mejorar las capacidades plug-and-play permitiendo a esos dispositivos ser conectados o desconectados al sistema sin necesidad de reiniciar. El estándar USB incluye la transmisión de energía eléctrica a cualquier aparato conectado.
 
-El Universal Serial Bus (bus universal en serie) USB, es el puerto estándar en casi todos los gadgets que actualmente se fabrican. Su diseño tenía como objetivo eliminar la necesidad de adquirir tarjetas separadas para poner en los puertos <a href="http://geek.cl/wp-content/uploads/2008/12/Bus_ISA">bus ISA</a> o <a href="http://geek.cl/wp-content/uploads/2008/12/Bus_PCI">PCI</a>, y mejorar las capacidades plug-and-play permitiendo a esos dispositivos ser conectados o desconectados al sistema sin necesidad de reiniciar. El estándar USB incluye la transmisión de energía eléctrica a cualquier aparato conectado.
+La revolución de la nueva versión **USB 3.0** viene de la mano de sus sorprendentes tasas de transferencia de datos, que pueden llegar a alcanzar unos  4.8 Gbps  o 600 MB/s, **10 veces más rápido que la versión 2.0**, y su transmisión eléctrica inteligente que se detiene en caso de que no sea requerida por el dispositivo conectado. También el estándar contempla subir de los 100 miliamperios a los 900 miliamperios, lo que permitirá cargar más rápido nuestros gadgets.
 
-La revolución de la nueva versión **>USB 3.0** viene de la mano de sus sorprendentes tasas de transferencia de datos, que pueden llegar a alcanzar unos  4.8 Gbps  o 600 MB/s, **10 veces más rápido que la versión 2.0**, y su transmisión eléctrica inteligente que se detiene en caso de que no sea requerida por el dispositivo conectado. También el estándar contempla subir de los 100 miliamperios a los 900 miliamperios, lo que permitirá cargar más rápido nuestros gadgets.
+#### 3. Memristor.
 
-## 3. Memristor.
-
-![memristor](/content/images/2016/07/35-memristor.jpg)
-
-Fotografía microscópica de un circuito con 17 memristors alineados en una fila, vía Wired.
+![memristor](/content/images/2016/07/35-memristor.jpg)<br>
+<cite>Fotografía microscópica de un circuito con 17 memristors alineados en una fila, vía Wired.</cite>
 
 Su nombre corresponde a la palabra compuesta memory resistor (resistencia memoria). El Memristor nació teórica e hipotéticamente en 1971, producto de las ecuaciones matemáticas hechas en teoría de circuitos eléctricos por Leon Chua. Se le conoce como el cuarto elemento de los circuitos pasivos.
 

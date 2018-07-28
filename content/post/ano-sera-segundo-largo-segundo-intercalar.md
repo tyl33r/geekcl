@@ -3,12 +3,13 @@ author = "Arturo"
 date = 2008-12-30T12:30:00Z
 description = ""
 draft = false
+tags = ["utc", "tiempo"]
 slug = "ano-sera-segundo-largo-segundo-intercalar"
 title = "Este año 2008 será un segundo más largo (segundo intercalar)."
 
 +++
 
-![Segundo Intercalar](/images/import/41-reloj-minuto-intercalar.jpg) alt="41-reloj-minuto-intercalar.jpg"/><br />
+![Segundo Intercalar](/images/import/41-reloj-minuto-intercalar.jpg)<br />
 <cite>Gracias!:F3R/n@nd0.</cite>
 
 En la práctica **el último minuto del año 2008 tendrá 61 segundos**, lo que se conoce como **segundo intercalar** o **segundo adicional**.  Necesario para mantener los estándares de emisión de tiempo cercanos al tiempo solar medio.

@@ -1,11 +1,10 @@
 +++
 author = "Arturo"
-categories = ["mac", "zsh", "bash", "Oh My Zsh", "shell"]
 date = 2013-09-23T10:15:52Z
 description = ""
 draft = false
 slug = "cambio-en-mac-entra-zsh-sale-bash"
-tags = ["mac", "zsh", "bash", "Oh My Zsh", "shell"]
+tags = ["mac", "zsh", "bash", "oh my zsh", "shell"]
 title = "Cambio en Mac: entra Zsh, sale Bash"
 
 +++

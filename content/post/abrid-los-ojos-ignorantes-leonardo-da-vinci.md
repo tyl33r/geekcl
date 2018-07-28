@@ -1,11 +1,10 @@
 +++
 author = "Arturo"
-categories = ["leonardo da vinci", "ignorancia", "citas", "frases"]
 date = 2015-01-11T17:05:00Z
 description = ""
 draft = false
 slug = "abrid-los-ojos-ignorantes-leonardo-da-vinci"
-tags = ["leonardo da vinci", "ignorancia", "citas", "frases"]
+tags = ["Leonardo da Vinci", "ignorancia", "citas", "frases"]
 title = "Abrid los ojos ignorantes! Leonardo da Vinci"
 
 +++

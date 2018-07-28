@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2009-01-29T12:02:01Z
 description = ""
 draft = false
-tags = ["comics", "Beetlejuice", "El Guasón"]
+tags = ["comics", "beetlejuice", "el guasón"]
 slug = "beetlejuice-guason-joker"
 title = "Beetlejuice y El Guasón (Joker)"
 

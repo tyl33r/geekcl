@@ -3,12 +3,14 @@ author = "Arturo"
 date = 2009-01-12T08:31:25Z
 description = ""
 draft = false
+tags = ["hal 9000", "películas", "computadoras"]
 slug = "10-computadoras-malvadas"
 title = "Las 10 más malvadas computadoras"
 
 +++
 
-[HAL 9000](/images/import/69-hal-9000.jpg) <br /><cite>HAL 9000 en 2001: Una Odisea del Espacio.</cite>
+![HAL 9000](/images/import/69-hal-9000.jpg) <br />
+<cite>HAL 9000 en 2001: Una Odisea del Espacio.</cite>
 
 Selección de las 10 más malvadas computadoras de películas; una selección muy entretenida, sobre todo para los geek que esporádicamente visitan este sitio.
 

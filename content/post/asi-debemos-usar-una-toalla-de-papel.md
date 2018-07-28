@@ -1,6 +1,5 @@
 +++
 author = "Arturo"
-categories = ["papel", "tedx", "manos"]
 date = 2012-05-16T12:37:25Z
 description = ""
 draft = false
