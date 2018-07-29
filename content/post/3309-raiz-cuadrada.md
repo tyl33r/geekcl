@@ -3,13 +3,13 @@ author = "Arturo"
 date = 2009-03-03T04:04:51Z
 description = ""
 draft = false
-tags = ["matemática", "pi", "raíz cuadrada"]
+tags = ["matemática", "raíz cuadrada"]
 slug = "3309-raiz-cuadrada"
 title = "3/3/09: Día de la Raíz Cuadrada"
 
 +++
 
-[Día de la Raiz Cuadrada Logo](/images/import/142-logotipo-dia-raiz-cuadrada.jpg)
+![Día de la Raiz Cuadrada Logo](/images/import/142-logotipo-dia-raiz-cuadrada.jpg)
 
 Hoy Martes **3/3/2009** los entusiastas de las matemáticas y en general los geek que les guste festejar, celebramos el **día de la raíz cuadrada**, festividad que corresponde darle la importancia que se merece, teniendo en cuenta que ocurre sólo 9 veces en el siglo que el día y el mes sean raíz cuadrada del año.
 

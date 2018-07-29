@@ -3,12 +3,12 @@ author = "Arturo"
 date = 2013-12-06T10:02:16Z
 description = ""
 draft = false
+tags = ["Leonardo da Vinci", "frases", "citas"]
 slug = "desigualdad-social-leonardo-da-vinci"
 title = "Desigualdad social - Leonardo da Vinci"
 
 +++
 
-<blockquote>
-La desigualdad es el origen de todos los movimientos locales.
-<p style="text-align: right;"><cite><a href="http://es.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>.</cite></p>
-</blockquote>
+>La desigualdad es el origen de todos los movimientos locales.
+
+<cite>[Leonardo da Vinci](https://es.wikipedia.org/wiki/Leonardo_da_Vinci).</cite>
