@@ -1,6 +1,5 @@
 +++
 author = "Arturo"
-categories = ["industria", "infografía", "alimenticia"]
 date = 2012-05-01T14:00:57Z
 description = ""
 draft = false
@@ -9,7 +8,6 @@ tags = ["industria", "infografía", "alimenticia"]
 title = "10 empresas controlan la industria alimenticia"
 
 +++
-
 
 ![grandes marcas alimenticias](/content/images/2016/06/grandesmarcas.jpg)
 

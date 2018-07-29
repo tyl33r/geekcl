@@ -3,13 +3,22 @@ author = "Arturo"
 date = 2008-12-26T03:00:00Z
 description = ""
 draft = false
+tags = ["lego", "fotografías"]
 slug = "divertidas-fotografias-protagonizadas-lego"
 title = "Divertidas fotografías protagonizadas por LEGO"
 
 +++
 
- <p>LEGO esos ladrillos y hombrecitos diminutos interconectables, que muchos hemos tenido la suerte de disfrutar no tan solo en la niñez. Es muy común conocer a alguien que alguna vez haya jugado con LEGO, y más aun si esa persona supera los 20 años, ya que actualmente es una "costumbre" que se ha ido perdiendo, debido a la inmediatez que rodea los actuales entretenimientos.</p><p> 
+LEGO esos ladrillos y hombrecitos diminutos interconectables, que muchos hemos tenido la suerte de disfrutar no tan solo en la niñez. Es muy común conocer a alguien que alguna vez haya jugado con LEGO, y más aun si esa persona supera los 20 años, ya que actualmente es una "costumbre" que se ha ido perdiendo, debido a la inmediatez que rodea los actuales entretenimientos.
 
-</p><p>De la empresa Danesa LEGO y sus ladrillos podemos escribir una larga historia, pero eso lo anotaremos a los pendientes del blog. Ahora me convoca el escribirles sobre una serie de (once) 11 divertidas fotografías, que demuestran que los que juegan con estos tipos de juguetes, tienen la imaginación más desarrollada que el común de los mortales.</p>
+De la empresa Danesa LEGO y sus ladrillos podemos escribir una larga historia, pero eso lo anotaremos a los pendientes del blog. Ahora me convoca el escribirles sobre una serie de (once) 11 divertidas fotografías, que demuestran que los que juegan con estos tipos de juguetes, tienen la imaginación más desarrollada que el común de los mortales.
 
-<p><a href="http://geek.cl/wp-content/uploads/2008/12/2695443721"><img src="http://geeksan.com/wp-content/uploads/import/20-lego-photography-1-thum.jpg" alt="20-lego-photography-1-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/437358377"><img src="http://geeksan.com/wp-content/uploads/import/21-lego-photography-2-thum.jpg" alt="21-lego-photography-2-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/2337339891"><img src="http://geeksan.com/wp-content/uploads/import/22-lego-photography-3-thum.jpg" alt="22-lego-photography-3-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/2508921097"><img src="http://geeksan.com/wp-content/uploads/import/23-lego-photography-4-thum.jpg" alt="23-lego-photography-4-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/518821732"><img src="http://geeksan.com/wp-content/uploads/import/24-lego-photography-5-thum.jpg" alt="24-lego-photography-5-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/2452020557"><img src="http://geeksan.com/wp-content/uploads/import/25-lego-photography-6-thum.jpg" alt="25-lego-photography-6-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/305410323"><img src="http://geeksan.com/wp-content/uploads/import/26-lego-photography-7-thum.jpg" alt="26-lego-photography-7-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/2301396197"><img src="http://geeksan.com/wp-content/uploads/import/27-lego-photography-8-thum.jpg" alt="27-lego-photography-8-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/3026523941"><img src="http://geeksan.com/wp-content/uploads/import/28-lego-photography-9-thum.jpg" alt="28-lego-photography-9-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/2243154949"><img src="http://geeksan.com/wp-content/uploads/import/29-lego-photography-10-thum.jpg" alt="29-lego-photography-10-thum.jpg" /></a><a href="http://geek.cl/wp-content/uploads/2008/12/set-72157602602191858"><img src="http://geeksan.com/wp-content/uploads/import/30-lego-photography-11-thum.jpg" alt="30-lego-photography-11-thum.jpg" /></a></p>[Vía - <a href="http://geek.cl/wp-content/uploads/2008/12/11-fun-lego-photos">Digital Photography School</a>]
+![](/images/import/20-lego-photography-1-thum.jpg)![](/images/import/21-lego-photography-2-thum.jpg)![](/images/import/22-lego-photography-3-thum.jpg)
+
+![](/images/import/23-lego-photography-4-thum.jpg)![](/images/import/24-lego-photography-5-thum.jpg)![](/images/import/25-lego-photography-6-thum.jpg)
+
+![](/images/import/26-lego-photography-7-thum.jpg)![](/images/import/27-lego-photography-8-thum.jpg)![](/images/import/28-lego-photography-9-thum.jpg)
+
+![](/images/import/29-lego-photography-10-thum.jpg)![](/images/import/30-lego-photography-11-thum.jpg)
+
+[Vía - Digital Photography School]
