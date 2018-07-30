@@ -9,7 +9,7 @@ title = "Enlace al minuto y segundo en los videos de YouTube"
 
 +++
 
- Este es un truco muy simple y a la vez práctico para enlazar videos desde YouTube al momento/minuto exacto que deseas mostrar.
+Este es un truco muy simple y a la vez práctico para enlazar videos desde YouTube al momento/minuto exacto que deseas mostrar.
 
 ### ¿Y cómo se hace?
 
