@@ -3,25 +3,26 @@ author = "Arturo"
 date = 2009-03-06T22:42:50Z
 description = ""
 draft = false
+tags = ["youtube", "trucos", "video"]
 slug = "enlace-minuto-segundo-videos-youtube"
 title = "Enlace al minuto y segundo en los videos de YouTube"
 
 +++
 
- <p>Este es un truco muy simple y a la vez práctico para enlazar videos desde YouTube al momento/minuto exacto que deseas mostrar.</p>
+ Este es un truco muy simple y a la vez práctico para enlazar videos desde YouTube al momento/minuto exacto que deseas mostrar.
 
-<h3>¿Y cómo se hace?</h3>
+### ¿Y cómo se hace?
 
-<p>Pondremos de ejemplo este video: </p>
+Pondremos de ejemplo este video:
 
-<p><a href="http://geek.cl/wp-content/uploads/2009/03/watch?v=PjDw3azfZWI">http://www.youtube.com/watch?v=PjDw3azfZWI</a></p> 
+[https://www.youtube.com/watch?v=PjDw3azfZWI] (https://www.youtube.com/watch?v=PjDw3azfZWII)
 
-<p>Ahora incluimos al enlace los minutos y segundos donde deseamos empiece el video cuando alguien haga clic:</p>
+Ahora incluimos al enlace los minutos y segundos donde deseamos empiece el video cuando alguien haga clic:
 
-<p><a href="http://geek.cl/wp-content/uploads/2009/03/watch?v=PjDw3azfZWI#t=31m08s">http://www.youtube.com/watch?v=PjDw3azfZWI#t=31m08s</a></p>
+[https://www.youtube.com/watch?v=PjDw3azfZWII#t=31m08s](https://www.youtube.com/watch?v=PjDw3azfZWII#t=31m08s)
 
-<p>Cómo puedes ver al final del enlace del video de YouTube aparece esta instrucción "<b>#t=31m08s</b>", donde indicamos que queremos que el video comience a los 31 minutos con 08 segundos cuando se haga click sobre el link.</p>
+Como puedes ver al final del enlace del video de YouTube aparece esta instrucción "**#t=31m08s**", donde indicamos que queremos que el video comience a los 31 minutos con 08 segundos cuando se haga click sobre el link.
 
-<p>Muy simple y terriblemente práctico, más cuando existen videos tan largos cómo el del ejemplo y queremos enlazar alguna o varias partes en específico del video.</p>
+Muy simple y terriblemente práctico, más cuando existen videos tan largos como el del ejemplo y queremos enlazar alguna o varias partes en específico del video.
 
-<p>[Vía - <a href="http://geek.cl/wp-content/uploads/2009/03/link-to-youtube-minute-second">Matt Cutts</a>.].</p>
+[Vía - Matt Cutts.].
