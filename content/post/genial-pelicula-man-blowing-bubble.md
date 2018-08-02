@@ -3,11 +3,11 @@ author = "Arturo"
 date = 2009-02-17T13:00:02Z
 description = ""
 draft = false
+tags = ["humor", "películas", "ilustraciones"]
 slug = "genial-pelicula-man-blowing-bubble"
 title = "No te pierdas la genial película \"Man Blowing a Bubble\""
 
 +++
+![Man Blowing a Bubble](/images/import/126-hombre-burbuja.jpg)
 
- Genial película titulada <b>Man Blowing a Bubble</b> (Hombre sopla  una burbuja), una película de <a href="http://geek.cl/wp-content/uploads/2009/02/spacesick.blogspot.com">Mitch Ansara</a>. Ansara también es el creador de la serie "<a href="http://geeksan.com/peliculas-tv/peliculas-80s-portadas-libros.html">I Can Read Movies</a>" portadas de libros de películas que no existen.
-
-<p align="center"><a href="http://geek.cl/wp-content/uploads/2009/02/3281317548"><img src="http://geeksan.com/wp-content/uploads/import/126-hombre-burbuja.jpg" alt="126-hombre-burbuja.jpg" /></a></p>
+Genial película titulada **Man Blowing a Bubble** (Hombre sopla  una burbuja), una película de [Mitch Ansara](https://spacesick.blogspot.com). Ansara también es el creador de la serie [I Can Read Movies](/peliculas-80s-portadas-libros/) portadas de libros de películas que no existen.

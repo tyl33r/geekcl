@@ -1,6 +1,5 @@
 +++
 author = "Arturo"
-
 date = 2012-05-04T13:25:04Z
 description = ""
 draft = false

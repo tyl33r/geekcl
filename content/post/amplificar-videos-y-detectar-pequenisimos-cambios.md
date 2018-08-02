@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2012-06-07T11:10:36Z
 description = ""
 draft = false
-tags = []
+tags = ["video", "eulerian video magnification", "amplificar"]
 slug = "amplificar-videos-y-detectar-pequenisimos-cambios"
 title = "Amplificar videos y detectar pequeñísimos cambios"
 

@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2009-01-14T13:08:30Z
 description = ""
 draft = false
-tags = ["ambigrama"]
+tags = ["ambigramas"]
 slug = "ambigramas-dvd-logotipos"
 title = "Ambigramas para todos los gustos, en DVD y logotipos"
 

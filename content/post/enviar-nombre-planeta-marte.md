@@ -15,4 +15,4 @@ Esta iniciativa pretende guardar todos los nombres inscritos hasta el 2011 en un
 
 Ser parte de esta lista seguro te hace más especial frente a los terrícolas normales. Y puede ser la oportunidad de que tu nombre "llegue alto", cómo nunca antes.
 
-[Vía - <a href="https://www.fayerwayer.com/2009/03/envia-tu-nombre-a-marte/">FayerWayer</a>.]
+[Vía - [FayerWayer](https://www.fayerwayer.com/2009/03/envia-tu-nombre-a-marte/).]

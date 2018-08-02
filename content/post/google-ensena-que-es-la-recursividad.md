@@ -3,17 +3,19 @@ author = "Arturo"
 date = 2009-07-25T06:05:21Z
 description = ""
 draft = false
+tags = ["recursividad", "google"]
 slug = "google-ensena-que-es-la-recursividad"
 title = "Google enseña qué es la recursividad"
 
 +++
 
-<a href="http://www.google.com/search?hl=es&amp;q=recursividad&amp;btnG=Buscar+con+Google&amp;lr=&amp;aq=f&amp;oq="><form mt:asset-id="200" class="mt-enclosure mt-enclosure-image" style="display: inline;" contenteditable="false"><img src="http://geeksan.com/wp-content/uploads/import/1-recursividad-google.jpg" alt="1-recursividad-google.jpg" /></form></a>
+![Recursividad Google](/images/08/recursividad-google.png)<br />
+<cite>Quizás quisiste decir: *recursividad*, Quizás quisiste decir: *recursividad*, Quizá...</cite>
 
-<p><strong>Google</strong> nos explica muy a su estilo que és la <a href="http://www.google.com/search?hl=es&amp;q=recursividad&amp;btnG=Buscar+con+Google&amp;lr=&amp;aq=f&amp;oq="><strong>recursividad</strong></a>, mostrándo en los resultados del término de búsqueda un loop o bucle infinito. Genial forma geek de definir un término tan interesante.</p>
+ **Google** nos explica muy a su estilo que es la [recursividad](https://www.google.com/search?hl=es&q=recursividad&spell=1&sa=X&ved=0ahUKEwjPguSO2s3cAhWLI5AKHc5vCXwQBQgkKAA&biw=1280&bih=738), mostrándo en los resultados del término de búsqueda un loop o bucle infinito. Genial forma geek y diferente de definir un término tan interesante.
 
-<p>Se habla de <a href="http://es.wikipedia.org/wiki/Recursi%C3%B3n">recursividad o recursión</a> cuando las instancias más complejas de un proceso se definen en términos más simples, estando las finales más simples definidas de forma explícita.</p>
+[recursividad o recursión](https://es.wikipedia.org/wiki/Recursi%C3%B3n) cuando las instancias más complejas de un proceso se definen en términos más simples, estando las finales más simples definidas de forma explícita.
 
-<p>La recursividad no es la definición entonces de un loop eterno o de un círculo sin fin. Hablamos de recursividad para por ejemplo describir en el lenguaje de programación cuando una función se llama a sí misma, o cuando con una cámara conectada a la televisión apuntamos a la pantalla de esta.</p><br />
+La recursividad no es la definición entonces de un loop eterno o de un círculo sin fin. Hablamos de recursividad para por ejemplo describir en el lenguaje de programación cuando una función se llama a sí misma, o cuando con una cámara conectada a la televisión apuntamos a la pantalla de esta.
 
-[Vía - <a href="http://googlesystem.blogspot.com/2009/07/google-helps-you-understand-recursion.html">GOS</a>].
+[Vía - [GOS](https://googlesystem.blogspot.com/2009/07/google-helps-you-understand-recursion.html)].

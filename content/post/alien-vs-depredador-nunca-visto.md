@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2009-03-18T09:07:03Z
 description = ""
 draft = false
-tags = ["película", "alien", "depredador", "publicidad"]
+tags = ["películas", "alien", "depredador", "publicidad"]
 slug = "alien-vs-depredador-nunca-visto"
 title = "Alien vs. Depredador, cómo nunca los has visto"
 
