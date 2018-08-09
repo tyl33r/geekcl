@@ -12,7 +12,7 @@ title = "Google enseña qué es la recursividad"
 ![Recursividad Google](/images/08/recursividad-google.png)<br />
 <cite>Quizás quisiste decir: *recursividad*, Quizás quisiste decir: *recursividad*, Quizá...</cite>
 
- **Google** nos explica muy a su estilo que es la [recursividad](https://www.google.com/search?hl=es&q=recursividad&spell=1&sa=X&ved=0ahUKEwjPguSO2s3cAhWLI5AKHc5vCXwQBQgkKAA&biw=1280&bih=738), mostrándo en los resultados del término de búsqueda un loop o bucle infinito. Genial forma geek y diferente de definir un término tan interesante.
+ **Google** nos explica muy a su estilo qué es la [recursividad](https://www.google.com/search?hl=es&q=recursividad&spell=1&sa=X&ved=0ahUKEwjPguSO2s3cAhWLI5AKHc5vCXwQBQgkKAA&biw=1280&bih=738), mostrándo en los resultados del término de búsqueda un loop o bucle infinito. Genial forma geek y diferente de definir un término tan interesante.
 
 [recursividad o recursión](https://es.wikipedia.org/wiki/Recursi%C3%B3n) cuando las instancias más complejas de un proceso se definen en términos más simples, estando las finales más simples definidas de forma explícita.
 
