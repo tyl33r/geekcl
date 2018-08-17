@@ -9,7 +9,7 @@ title = "Historias inspiradoras sobre Arte ASCII"
 
 +++
 
-![Arte ascci de Star Trek](/images/import/98-star-trek-ascii.jpg)
+![Arte ascii de Star Trek](/images/import/98-star-trek-ascii.jpg)
 
 El [Arte ASCII](https://es.wikipedia.org/wiki/Arte_ASCII) es un tema interesante para mí, de hecho no es primera vez que [escribo algo acerca de él](/esteganografia-arte-ascii/), aunque lamentablemente *no tengo dedos para el piano*. Es el arte geek indiscutido, padre de todos los tipos de arte tecnológicos. Nació en los tiempos en que los computadores no podían procesar imágenes, porque no tenían tarjetas de proceso gráfico.
 

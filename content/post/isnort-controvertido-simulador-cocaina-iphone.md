@@ -8,8 +8,6 @@ title = "iSnort controvertido simulador de cocaina para el iPhone"
 
 +++
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/-j-DGrWry6k" frameborder="0" allowfullscreen></iframe>
+Se trata de una controvertida aplicación llama iSnort para el iPhone, que simula a la cocaina de forma bastante real. Es obvio que nunca el programa llegó ni llegará a la APP'S Store de Apple, pero no por eso es imposible de instalarlo en el iPhone gracias al jailbrake.
 
-Se trata de una controvertida aplicación llama <a href="http://www.theisnort.com/isnort.html">iSnort</a> para el iPhone, que simula a la cocaina de forma bastante real. Es obvio que nunca el programa llegó ni llegará a la APP'S Store de Apple, pero no por eso es imposible de instalarlo en el iPhone gracias al jailbrake.
-
-[Vía - <a href="http://www.gizmodo.com.au/2009/05/perfect_cocaine_simulator_will_never_make_it_to_the_iphone_app_store-2.html">Gizmodo</a>].
+[Vía - Gizmodo].
