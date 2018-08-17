@@ -3,13 +3,14 @@ author = "Arturo"
 date = 2009-03-07T06:49:58Z
 description = ""
 draft = false
+tags = ["astronomía", "curiosidades", "plutón"]
 slug = "illinois-declara-pluton-planeta"
 title = "Illinois vuelve a declarar a Plutón como planeta"
 
 +++
 
- <p><a href="http://geek.cl/wp-content/uploads/2009/03/%28134340%29_Plut%C3%B3n">Plutón</a> fue declarado por la Unión Internacional Astronómica (UIA) cómo <a href="http://geek.cl/wp-content/uploads/2009/03/Planeta_enano">planeta enano</a> o <a href="http://geek.cl/wp-content/uploads/2009/03/Plutoide">plutoide</a>, pero a pesar de lo anterior y sin temblarles la mano <a href="http://geek.cl/wp-content/uploads/2009/03/illinois-plutocrats">en el Estado de Illinois se le volvió a declarar cómo Planeta</a>, algo que seguro no tiene inferencia alguna en el resto del mundo, pero que si reivindica a un ex planeta que algunos (me incluyo) extrañamos dentro de esta importante clasificación.</p>
+[Plutón](https://es.wikipedia.org/wiki/Plut%C3%B3n_(planeta_enano)) fue declarado por la Unión Internacional Astronómica (UIA) como [planeta enano](https://es.wikipedia.org/wiki/Planeta_enano) o [plutoide](https://es.wikipedia.org/wiki/Plutoide), pero a pesar de lo anterior y sin temblarles la mano [en el Estado de Illinois se le volvió a declarar como Planeta](https://www.slate.com/blogs/bad_astronomy/2009/03/05/illinois_plutocrats.html), algo que seguro no tiene inferencia alguna en el resto del mundo, pero que si reivindica a un ex planeta que algunos (me incluyo) extrañamos dentro de esta importante clasificación.
 
-<p>La <a href="http://geek.cl/wp-content/uploads/2009/03/09600SR0046lv.pdf">polémica y WTF?! declaración</a> se respalda en varios "considerandos", donde alguno de ellos son que, ¡Plutón pasa por el cielo nocturno de Illinois!, y quien lo descubrió (<a href="http://geek.cl/wp-content/uploads/2009/03/Clyde_Tombaugh">Clyde William Tombaugh</a>) nació en aquel estado.</p>
+[La polémica y WTF?! declaración](http://www.ilga.gov/legislation/96/SR/PDF/09600SR0046lv.pdf) se respalda en varios *considerandos*, donde alguno de ellos son que, ¡Plutón pasa por el cielo nocturno de Illinois!, y quien descubrió el planeta, Clyde William Tombaugh ,nació en aquel estado.
 
-<p>[Vía - <a href="http://geek.cl/wp-content/uploads/2009/03/0436206">science.slashdot.com</a>.]</p>
+[Vía - [science.slashdot.com](https://science.slashdot.org/story/09/03/06/0436206/illinois-declares-pluto-a-planet).]
