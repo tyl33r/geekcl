@@ -14,15 +14,18 @@ title = "Mac OS X, gpg-agent y ZSH"
 
 Que sirva como una nota para quien se le presente el mismo problema y no pierda tanto tiempo buceando la red en busca de la solución. **gpg-agent** es el programa encargado de evitar tener que estar ingresando la contraseña continuamente, una vez que ingreso la contraseña maestra de **gpg**, gpg-agent se encarga de *almacenarla* y no volver a solicitarla después de un determinado tiempo.
 
-##Mac OS X + gpg-agent + ZSH y pass
-No voy a explicar sobre la instalación de ninguna de estas utilidades, ya hablé algo sobre instalar y configurar [ZSH](http://geek.cl/cambio-en-mac-entra-zsh-sale-bash/) y [iTerm 2](http://geek.cl/instalar-personalizar-iterm-2/), respecto a [gpg (GnuPg)](https://www.gnupg.org/) y [pass](http://www.passwordstore.org/) escribiré algo más adelante. Pero lo importante acá es que de forma simple dejemos corriendo como demonio gpg-agent en Mac OS X utilizando un pluging presente para ZSH.
+## Mac OS X + gpg-agent + ZSH y pass
+No voy a explicar sobre la instalación de ninguna de estas utilidades, ya hablé algo sobre instalar y configurar [ZSH](/cambio-en-mac-entra-zsh-sale-bash/) y [iTerm 2](/instalar-personalizar-iterm-2/), respecto a [gpg (GnuPg)](https://www.gnupg.org/) y [pass](https://www.passwordstore.org/) escribiré algo más adelante. Pero lo importante acá es que de forma simple dejemos corriendo como demonio gpg-agent en Mac OS X utilizando un pluging presente para ZSH.
 
 
-##Al Grano
-Vamos a habilitar el pluging que viene por defecto dentro del amplio catálogo presente en ZSH de serie. 
+## Al Grano
+Vamos a habilitar el pluging que viene por defecto dentro del amplio catálogo presente en ZSH de serie.
 
-*El listado de los plugins presentes se puede ver en ```~/.oh-my-zsh/plugins/*```*
+El listado de los plugins presentes se puede ver en
 
+```
+~/.oh-my-zsh/plugins/
+```
 Editemos el archivo de configuración de ZSH y agregamos el plugin.
 
 ```
@@ -69,7 +72,7 @@ ZSH_THEME="fino-time"
 # much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
-# Uncomment following line if you want to the command execution time stamp shown 
+# Uncomment following line if you want to the command execution time stamp shown
 # in the history command output.
 # The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 HIST_STAMPS="dd.mm.yyyy"
