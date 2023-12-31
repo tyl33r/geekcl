@@ -3,7 +3,7 @@ author = "Arturo"
 date = 2009-06-01T18:06:25Z
 description = ""
 draft = false
-tags ["humor", "video", "explosiones"]
+tags = ["humor", "video", "explosiones"]
 slug = "los-tipos-cool-no-miran-las-explosiones"
 title = "Los tipos cool no miran las explosiones"
 
